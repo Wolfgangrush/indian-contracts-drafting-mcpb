@@ -1,3 +1,21 @@
+<div align="center">
+
+<img src="docs/banner.png" width="820"/>
+
+**Drafting connector for Indian contract drafting and dispute forums — a strict six-agent pipeline from case file to final draft.**
+
+Visit the live site: [wolfgangrush.github.io](https://wolfgangrush.github.io)
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"/>
+  <img src="https://img.shields.io/badge/MCPB-connector-blue" alt="MCPB connector"/>
+  <img src="https://img.shields.io/badge/pipeline-6%20agents-orange" alt="Six-agent pipeline"/>
+  <img src="https://img.shields.io/badge/jurisdiction-India-FF9933" alt="Jurisdiction: India"/>
+</p>
+
+
 # wolfgang_rush — Indian Contracts & Personal-Estate Drafting
 
 **MCPB Desktop Extension** for Indian advocates using Claude Desktop App. Local-execution. Zero data collection.
